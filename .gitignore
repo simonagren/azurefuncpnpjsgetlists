@@ -4,7 +4,6 @@ csx
 .vs
 edge
 Publish
-.vscode
 
 *.user
 *.suo
@@ -21,5 +20,4 @@ project.lock.json
 /data
 .secrets
 appsettings.json
-local.settings.json
 node_modules

@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "spId": "<AppId>",
+    "spSecret": "<AppSecret>",
+    "spTenantUrl": "https://<tenant>.sharepoint.com"
+  }
+}
