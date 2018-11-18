@@ -1,7 +1,5 @@
 
 const sp = require("@pnp/sp").sp;
-const KeyVault = require('azure-keyvault');
-const msRestAzure = require('ms-rest-azure');
 const SPFetchClient = require("@pnp/nodejs").SPFetchClient;
 
 module.exports = async function (context, req) {
